@@ -33,4 +33,4 @@ def pregunta_12():
     results.index.name = "c0"
     results.reset_index(inplace=True)
 
-    return tabla_respuesta
+    return results
